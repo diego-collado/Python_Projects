@@ -24,6 +24,9 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 
+## Para dar clases: ejemplos resueltos
+- [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
+
 
 #### ¿Hablamos?☕️
 
