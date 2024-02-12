@@ -13,10 +13,8 @@
 Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
 #### :warning:	Accede al contenido :warning:	
-- [Instalación](#Bases de Datos)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Instalación](BBDD)
+
 
 
 #### ¿Hablamos?☕️
