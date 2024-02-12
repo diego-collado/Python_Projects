@@ -13,7 +13,7 @@
 Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
 #### :warning:	Accede al contenido :warning:	
-- [Instalación](BBDD)
+- [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
 
 
 
