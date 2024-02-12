@@ -16,6 +16,6 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 
 <p align="left">
-<a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="LinkedIn Diego Collado Ramos" height="30" width="40" />LinkedIn</a>
+<a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="LinkedIn Diego Collado Ramos"/>LinkedIn</a>
 
 <a href="mailto:tresw.es@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="LinkedIn Diego Collado Ramos" height="30" width="40" />tresw.es@gmail.com</a>
