@@ -26,6 +26,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
 - [Ejemplos Resueltos para Clase](Ejercicios_para_clases): 40 ejemplos resueltos para el día a día en clase
+- [Ejemplos Resueltos para Clase: modo PRO](Ejercicios_para_clases_PRO): Ejemplos avanzados de utilización de JSON, Matplotlib + Pandas, Pandas, Numpy y más... Incluye ficheros TXT y dataframes en CSV
 
 <br>
 
