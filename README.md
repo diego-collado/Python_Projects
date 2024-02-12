@@ -1,4 +1,4 @@
-<center>![LPython_Proyects](musculo.png)</center>
+![Logo del Proyecto](musculo.png)
 
 # Python_Projects
 
