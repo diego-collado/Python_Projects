@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/images/idea.png">
   <source media="(prefers-color-scheme: light)" srcset="/images/idea.png">
-  <img alt="Python_Projects, algo más que programación" src="/images/idea.png" width="50%">
+  <img alt="Python_Projects, algo más que programación" src="/images/idea.png" width="10%">
 </picture>
 
 ### Python_Projects
