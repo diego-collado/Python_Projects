@@ -14,7 +14,7 @@
 Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
 
-# :warning:	Accede al contenido :warning:	
+## :warning:	Accede al contenido :warning:	
 
 - [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
@@ -24,7 +24,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 
-## Para dar clases: ejemplos resueltos
+## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 
 
