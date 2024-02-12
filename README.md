@@ -5,6 +5,7 @@
   <img alt="Python_Projects, algo más que programación" src="/images/idea.png" width="10%">
 </picture>
 </p>
+
 ### Python_Projects
 > [!CAUTION]
 > Estos ejemplos están basados en el desarrollo natural de clases de programación en Python (nivel básico, medio y avanzado), por lo que se incluirán muchos scripts que puedan ser perjudiciales para el sistema en el que se ejecuten.
