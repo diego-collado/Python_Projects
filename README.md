@@ -1,4 +1,4 @@
-![Logo del Proyecto](musculo.png)
+![Logo del Proyecto](idea1.png)
 
 # Python_Projects
 
