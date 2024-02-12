@@ -27,7 +27,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
 - [Ejemplos Resueltos para Clase](Ejercicios_para_clases): 40 ejemplos resueltos para el día a día en clase
 
-
+<br>
 #### ¿Hablamos?☕️
 
 
