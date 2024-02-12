@@ -36,8 +36,6 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 #### ¿Hablamos?☕️
 
 
-<p align="left">
-<a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="Diego Collado Ramos"/> Diego Collado Ramos</a>
-
-<a href="mailto:tresw.es@gmail.com " target="blank"><img align="center" src="images/email.png" alt="LinkedIn Diego Collado Ramos"/> tresw.es@gmail.com</a>
+<p align="center">
+<a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="Diego Collado Ramos"/> Diego Collado Ramos</a> <a href="mailto:tresw.es@gmail.com " target="blank"><img align="center" src="images/email.png" alt="LinkedIn Diego Collado Ramos"/> tresw.es@gmail.com</a>
 </p>
