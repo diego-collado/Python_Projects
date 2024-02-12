@@ -6,12 +6,17 @@
 </picture>
 </p>
 
-##### :desktop_computer:	Python_Projects 
+#### :desktop_computer:	Python_Projects 
 > [!CAUTION]
 > Estos ejemplos están basados en el desarrollo natural de clases de programación en Python (nivel básico, medio y avanzado), por lo que se incluirán muchos scripts que puedan ser perjudiciales para el sistema en el que se ejecuten.
 
 Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
+#### :warning:	Accede al contenido :warning:	
+- [Instalación](#Bases de Datos)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
 
 
 #### ¿Hablamos?☕️
