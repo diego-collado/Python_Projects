@@ -25,7 +25,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
-- [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
+- [Ejemplos Resueltos para Clase](Ejercicios_para_clases): 40 ejemplos resueltos para el día a día en clase
 
 
 #### ¿Hablamos?☕️
