@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diego-collado/Python_Projects/tree/main/images/musculo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diego-collado/Python_Projects/tree/main/images/musculo.png">
-  <img alt="Python_Projects, algo más que programación" src="https://github.com/diego-collado/Python_Projects/tree/main/images/musculo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/images/idea.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/idea.png">
+  <img alt="Python_Projects, algo más que programación" src="/images/idea.png">
 </picture>
 
 ### Python_Projects
