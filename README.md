@@ -13,6 +13,7 @@
 
 Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
+<br>
 
 ## :warning:	Accede al contenido :warning:	
 
@@ -23,6 +24,8 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Básico & Advanced](Python_basico_y_avanzado): Explicaciones básicas (operadores, casting, estructuras de control... ) y avanzadas (diccionarios, paquetes, ficheros, excepciones...)
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
+
+<br>
 
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
 - [Ejemplos Resueltos para Clase](Ejercicios_para_clases): 40 ejemplos resueltos para el día a día en clase
