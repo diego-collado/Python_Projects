@@ -15,6 +15,14 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 <br>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/musculo.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/musculo.png">
+  <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="10%">
+</picture>
+</p>
+
 ## :warning:	Accede al contenido :warning:	
 
 - [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
