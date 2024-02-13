@@ -15,15 +15,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 <br>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/musculo.png">
-  <source media="(prefers-color-scheme: light)" srcset="/images/musculo.png">
-  <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="10%">
-</picture>
-</p>
-
-## <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="5%">Accede al contenido :warning:	
+## <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="3%">Accede al contenido 
 
 - [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
