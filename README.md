@@ -23,7 +23,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 </picture>
 </p>
 
-## :warning:	Accede al contenido :warning:	
+## <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="5%">Accede al contenido :warning:	
 
 - [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
