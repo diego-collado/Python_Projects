@@ -13,32 +13,32 @@
 -  Bucle principal de juego
 
 > Conceptos repasados en este juego: 
-- 1. Listas: 
+- 1. <b>Listas</b>: 
   - Para representar el tablero como una lista de 9 elementos.
   - Manipulación de elementos por índice.
 
-- 2. Funciones:
+- 2. <b>Funciones</b>:
   - Para dividir el código en bloques reutilizables como mostrar_tablero(), comprobar_ganador(), etc.
 
-- 3. Bucles:
+- 3. <b>Bucles</b>:
   - while para mantener el juego activo hasta que haya un ganador o empate.
   - for para recorrer combinaciones ganadoras.
 
-- 4. Condicionales:
+- 4. <b>Condicionales</b>:
   - if, elif, else para controlar lógica de juego, validar entradas, cambiar de jugador.
 
-- 5. Tipos de datos:
+- 5. <b>Tipos de datos</b>:
   - str, int, y bool se usan constantemente.
   - Conversión de tipos (ej. int(input(...))).
 
-- 6. Manejo de errores:
+- 6. <b>Manejo de errores</b>:
   - try-except para evitar que el juego se caiga por entradas inválidas del usuario.
 
-- 7. Operadores:
+- 7. <b>Operadores</b>:
   - Lógicos (==, !=, and, or)
   - Ternario (jugador_actual = "X" if ...)
 
-- 8. Buenas prácticas:
+- 8. <b>Buenas prácticas</b>:
   - Uso de if __name__ == "__main__" para organizar el código correctamente.
   - Modularización con funciones para mayor claridad.
 
