@@ -143,5 +143,21 @@ Este proyecto tiene como objetivo el desarrollo de una aplicación basada en int
 git clone https://github.com/usuario/proyecto.git
 cd proyecto
 ```
-- Elige juego contra otro jugador o contra el PC
-- Gana quién antes consiga alinear 3 símbolos
+- Crear y activar un entorno virtual:
+```
+python -m venv env
+source env/bin/activate  # Windows: env\Scripts\activate
+```
+- Instalar dependencias
+```
+pip install -r requirements.txt
+```
+- Ejecutar la aplicación:
+```
+python src/main.py
+```
+
+- Ejecutar pruebas unitarias:
+```
+pytest tests/
+```
