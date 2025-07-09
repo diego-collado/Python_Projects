@@ -1,0 +1,3 @@
+hola => ¡Hola! ¿Cómo estás?
+cómo te llamas => Me llamo SimpleBot.
+qué puedes hacer => Puedo aprender y responder preguntas simples.

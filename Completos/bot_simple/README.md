@@ -80,6 +80,11 @@ Este proyecto tiene como objetivo el desarrollo de una aplicación basada en int
 /SimpleBot
     |
     |_ main.py 
+    |
+    |_ conocimiento.txt
+    |
+    |_ memoria.json
+    |
     |__ ia
     |   |_ engine.py 
     |
