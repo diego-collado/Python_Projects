@@ -10,7 +10,7 @@
 - Consulta un archivo de conocimientos (conocimiento.txt) si no sabe algo
 - Pregunta si aún no tiene respuesta, y aprende de lo que se le enseñe
 
-> Conceptos repasados en este juego: 
+> Conceptos repasados en esta aplicación: 
 - 1. <b>Diccionarios</b>: 
   - Para guardar y consultar pares pregunta–respuesta (memoria real del bot).
   - Ideal para búsquedas rápidas por clave.
