@@ -17,6 +17,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 ## <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="3%">Accede al contenido 
 
+- [Proyectos completos] (Completos): Proyectos completos, donde se integra la estructura, README y otros archivos
 - [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
 - [Hacking & Python](Hacking_Python): Scripts para realizar cada una de las fases de una auditoría Web y/o de sistemas (Black/Grey/White Box)
