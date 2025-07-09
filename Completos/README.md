@@ -1,51 +1,11 @@
-# <img alt="3 en raya (Tic-Tac-Toe)" src="images/3enraya.png" width="8%">	Juego Tic-Tac_Toe, 3 en raya
 
+# <img alt="Juegos, aplicaciones y más..." src="images/juegos.png" width="8%">	Juegos, aplicaciones y más...
 
-> [!IMPORTANT]
-> El proyecto <b>3 en raya</b> en Python se crea representando el tablero como una lista, mostrando su estado en consola, alternando turnos entre jugadores, solicitando movimientos válidos, comprobando tras cada jugada si hay ganador o empate mediante combinaciones ganadoras predefinidas, y repitiendo este ciclo en un bucle hasta que el juego termine.
+# :desktop_computer:	Python_Projects 
 
-> Este proyecto normalmente se hace como una aplicación de consola, y se estructura en:
--  Representación del tablero
--  Mostrar el tablero
--  Pedir movimientos al jugador
--  Comprobar si alguien ha ganado o hay empate
--  Controlar el turno de los jugadores
--  Bucle principal de juego
+> [!CAUTION]
+> Estos proyectos de ejemplo (juegos, app, REST API...) están basados en el desarrollo natural de clases de programación en Python (nivel básico, medio y avanzado), incluyendo manejo avanzado de la Programación Orientada a Objetos (POO), por lo que es muy posible que muchos scripts que puedan ser perjudiciales para el sistema en el que se ejecuten.
+> Los proyectos ejemplo funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
-> Conceptos repasados en este juego: 
-- 1. <b>Listas</b>: 
-  - Para representar el tablero como una lista de 9 elementos.
-  - Manipulación de elementos por índice.
-
-- 2. <b>Funciones</b>:
-  - Para dividir el código en bloques reutilizables como mostrar_tablero(), comprobar_ganador(), etc.
-
-- 3. <b>Bucles</b>:
-  - while para mantener el juego activo hasta que haya un ganador o empate.
-  - for para recorrer combinaciones ganadoras.
-
-- 4. <b>Condicionales</b>:
-  - if, elif, else para controlar lógica de juego, validar entradas, cambiar de jugador.
-
-- 5. <b>Tipos de datos</b>:
-  - str, int, y bool se usan constantemente.
-  - Conversión de tipos (ej. int(input(...))).
-
-- 6. <b>Manejo de errores</b>:
-  - try-except para evitar que el juego se caiga por entradas inválidas del usuario.
-
-- 7. <b>Operadores</b>:
-  - Lógicos (==, !=, and, or)
-  - Ternario (jugador_actual = "X" if ...)
-
-- 8. <b>Buenas prácticas</b>:
-  - Uso de if __name__ == "__main__" para organizar el código correctamente.
-  - Modularización con funciones para mayor claridad.
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/juegos.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/juegos.png">
-  <img alt="Tic-Tac-Toe" src="images/juegos.png" width="25%">
-</picture>
-</p>
+## :bricks:	Proyectos completos de ejemplo :floppy_disk:	
+- [3 en Raya (Python)](3enrayapy): ejemplo proyecto <b>>3 en raya</b> desarrollado en Python 3.x. EL juego permite jugar contra otro oponente o contra la máquina.
