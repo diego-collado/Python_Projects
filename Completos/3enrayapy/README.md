@@ -37,11 +37,11 @@ Este pequeño proyecto resuelve el problema de ofrecer un entretenimiento simple
 
 ## 6.- Estructura del Proyecto (Arquitectura)
 /3enRayaPy
--    |__ src
--    |    |__ game                contiene la lógica principal del juego
--    |    |    |_ __init__.py  
--    |    |    |_ board.py        maneja la creación/estado del tablero
--    |    |    |_ player.py       define jugadores (IA / humanos)
+    |__ src
+    |    |__ game                contiene la lógica principal del juego
+    |    |    |_ __init__.py  
+    |    |    |_ board.py        maneja la creación/estado del tablero
+    |    |    |_ player.py       define jugadores (IA / humanos)
     |    |    |_ ai.py           implementa la IA básica
     |    |    |_ game.py         lógica (jugadas) e interacción jugador
     |    |
