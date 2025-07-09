@@ -6,4 +6,5 @@
 > Los proyectos ejemplo funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
 ## :bricks:	Proyectos completos de ejemplo :floppy_disk:	
-- [3 en Raya (Python)](3enrayapy): ejemplo proyecto <b>>3 en raya</b> desarrollado en Python 3.x. EL juego permite jugar contra otro oponente o contra la máquina.
+- [3 en Raya (Python)](3enrayapy): ejemplo proyecto <b>3 en raya</b> desarrollado en Python 3.x. EL juego permite jugar contra otro oponente o contra la máquina.
+- [Bot Simple (Python)](bot_simple): ejemplo proyecto <b>Bot simple</b> desarrollado en Python 3.x, totalmente independizado de APIs e Internet, con aprendizaje automático incluido.

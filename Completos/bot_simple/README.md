@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> El proyecto <b>bot simple</b> nos permite crear un bot completamente independiente de Internet, desarrollado en Python, que funciona offline, aprende de lo que se escribe, es sencillo y se ejecuta en consola, además que guarda lo aprendido para futuras conversaciones
+> El proyecto <b>bot simple</b> nos permite crear un bot completamente independiente de Internet, desarrollado en Python, que funciona offline, aprende de lo que se escribe, es sencillo y se ejecuta en consola, además que guarda lo aprendido para futuras conversaciones.
 > Qué hará este bot:
   - Si conoce la respuesta → te responde.
   - Si no la conoce → te pregunta qué debería decir.
