@@ -37,11 +37,11 @@ Este pequeño proyecto resuelve el problema de ofrecer un entretenimiento simple
 
 ## 6.- Estructura del Proyecto (Arquitectura)
 /3enRayaPy
-    |__ src
-    |    |__ game                contiene la lógica principal del juego
-    |    |    |_ __init__.py  
-    |    |    |_ board.py        maneja la creación/estado del tablero
-    |    |    |_ player.py       define jugadores (IA / humanos)
+-    |__ src
+-    |    |__ game                contiene la lógica principal del juego
+-    |    |    |_ __init__.py  
+-    |    |    |_ board.py        maneja la creación/estado del tablero
+-    |    |    |_ player.py       define jugadores (IA / humanos)
     |    |    |_ ai.py           implementa la IA básica
     |    |    |_ game.py         lógica (jugadas) e interacción jugador
     |    |
@@ -57,18 +57,11 @@ Este pequeño proyecto resuelve el problema de ofrecer un entretenimiento simple
 - Adjunto en la carpeta
 
 ## 8.- Plan de desarrollo
-- SEMANA - ACTIVIDAD
-----------------------------------------------------------------------
--   1 |     Diseño del tablero y manejo entrada/salida de datos
-----------------------------------------------------------------------
--   2 |     Implementación de la lógica del jugador y las reglas
-----------------------------------------------------------------------
--   3 |     Implementación de la IA básica
-----------------------------------------------------------------------
--   4 |     Pruebas, mejoras, refactorización
-----------------------------------------------------------------------
--   5 |     Documentación y empaquetado
-----------------------------------------------------------------------
+- Semana 1 | Actividad: Diseño del tablero y manejo entrada/salida de datos
+- Semana 2 | Actividad: Implementación de la lógica del jugador y las reglas
+- Semana 3 | Actividad: Implementación de la IA básica
+- Semana 4 | Actividad: Pruebas, mejoras, refactorización
+- Semana 5 | Actividad: Documentación y empaquetado
 
 ## 9.- Testing
 - Pruebas unitarias: 
