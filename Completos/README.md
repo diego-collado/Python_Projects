@@ -1,7 +1,5 @@
 
-# <img alt="Juegos, aplicaciones y más..." src="images/juegos.png" width="8%">	Juegos, aplicaciones y más...
-
-# :desktop_computer:	Python_Projects 
+# :desktop_computer:	Juegos, aplicaciones y más... 
 
 > [!CAUTION]
 > Estos proyectos de ejemplo (juegos, app, REST API...) están basados en el desarrollo natural de clases de programación en Python (nivel básico, medio y avanzado), incluyendo manejo avanzado de la Programación Orientada a Objetos (POO), por lo que es muy posible que muchos scripts que puedan ser perjudiciales para el sistema en el que se ejecuten.
