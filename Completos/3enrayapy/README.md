@@ -59,15 +59,15 @@ Este pequeño proyecto resuelve el problema de ofrecer un entretenimiento simple
 ## 8.- Plan de desarrollo
 SEMANA                  ACTIVIDAD
 ----------------------------------------------------------------------
-  1       |     Diseño del tablero y manejo entrada/salida de datos
+-   1       |     Diseño del tablero y manejo entrada/salida de datos
 ----------------------------------------------------------------------
-  2       |     Implementación de la lógica del jugador y las reglas
+-   2       |     Implementación de la lógica del jugador y las reglas
 ----------------------------------------------------------------------
-  3       |     Implementación de la IA básica
+-   3       |     Implementación de la IA básica
 ----------------------------------------------------------------------
-  4       |     Pruebas, mejoras, refactorización
+-   4       |     Pruebas, mejoras, refactorización
 ----------------------------------------------------------------------
-  5       |     Documentación y empaquetado
+-   5       |     Documentación y empaquetado
 ----------------------------------------------------------------------
 
 ## 9.- Testing
