@@ -1,0 +1,4 @@
+# Este archivo se utiliza para la instalación de dependencias.
+# Una dependencia suele ser una biblioteca de 3º, a instalar en el sistema.
+
+# EN ESTE CASO, NO SE REQUIEREN DEPENDENCIAS EXTERNAS
