@@ -96,7 +96,7 @@ adicto_calculator/
 ## INSTRUCCIONES DE USO
 - Instalación y configuración
 ```
-git clone https://github.com/usuario/adicto_calculator.git
+git clone https://github.com/usuario/calculadora_GUI.git
 cd adicto_calculator
 python main.py
 ```
