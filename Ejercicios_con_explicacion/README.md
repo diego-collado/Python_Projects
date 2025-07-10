@@ -7,5 +7,5 @@
 
 ## :bricks:	Construyendo un futuro: aprende jugando	
 - [Ejercicios básicos](ejercicios_basicos): ejemplo básicos desarrollados en Python 3.x, los cuales pretenden explicar desde qué es una variable hasta llegar a manejar paquetes, módulos, instalaciones de 3º...
-- [Ejercicios complejos)](ejercicios_complejos_): ejemplos complejos, desarrollados en Python 3.x, preparados para poder aplicar clases, módulos, estructuras complejas (sin llegar a completar un proyecto, pero sí teniendo dependencias).
+- [Ejercicios complejos](ejercicios_complejos_): ejemplos complejos, desarrollados en Python 3.x, preparados para poder aplicar clases, módulos, estructuras complejas (sin llegar a completar un proyecto, pero sí teniendo dependencias).
 - [Plantillas completas de proyectos Python](ejemplos_plantilla_de_proyectos): ejemplos de proyectos totalmente completos, desarrollados en Python 3.x, que permiten comprobar la estructura que tienen, con sus correspondientes carpetas, archivos para Github y mucho más...
