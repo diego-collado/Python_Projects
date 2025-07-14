@@ -24,13 +24,13 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Básico & Advanced](Python_basico_y_avanzado): Explicaciones básicas (operadores, casting, estructuras de control... ) y avanzadas (diccionarios, paquetes, ficheros, excepciones...)
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
-- [Proyectos](Completos): Proyectos completos, donde se integra la estructura, README y otros archivos
+- [Proyectos](Completos): Proyectos completos, donde se integra estructura, README y otros archivos
 <br>
 
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
 - [Ejemplos Resueltos para Clase](Ejercicios_para_clases): 40 ejemplos resueltos para el día a día en clase
 - [Ejemplos con explicación para Clase](Ejercicios_con_explicacion): ejemplos resueltos para el día a día en clase, con explicaciones en modo comentario 
-- [Ejemplos Resueltos para Clase: modo PRO](Ejercicios_para_clases_PRO): Ejemplos avanzados de utilización de JSON, Matplotlib + Pandas, Pandas, Numpy y más... Incluye ficheros TXT y dataframes en CSV
+- [Ejemplos Resueltos para Clase: modo PRO](Ejercicios_para_clases_PRO): Ejemplos avanzados de utilización de JSON, Matplotlib + Pandas, Pandas, Numpy y más... Incluye ficheros TXT y dataframes en CSV, entre otros.
 
 <br>
 
