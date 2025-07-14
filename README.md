@@ -25,6 +25,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 - [Proyectos](Completos): Proyectos completos, donde se integra estructura, README y otros archivos
+- [I.A.](IA): Proyectos ejemplo de Inteligencia Artificial (I.A.), desde simples bots automáticos hasta IA completa y totalmente autónomas.
 <br>
 
 ## :bricks:	Para dar clases: ejemplos resueltos :floppy_disk:	
