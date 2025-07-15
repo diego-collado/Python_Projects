@@ -5,9 +5,9 @@
   <img alt="Python_Projects, algo más que programación" src="/images/idea.png" width="25%">
 </picture>
 </p>
-<p align="center">
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-</p>
+
 
 # :desktop_computer:	Python_Projects
 > [!CAUTION]
