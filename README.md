@@ -6,8 +6,8 @@
 </picture>
 </p>
 
-<center>[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-</center>
+<p align="center">[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+</p>
 
 
 # :desktop_computer:	Python_Projects
@@ -40,7 +40,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 [![¡Pregunta lo que quieras!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/diego-collado)
 
-> Para contactar conmigo puedes encontrarme: 
+> Para contactar conmigo, puedes hacerlo en: 
 
 <p align="center">
 <a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="Diego Collado Ramos"/> Diego Collado Ramos</a>        <a href="mailto:tresw.es@gmail.com " target="blank"><img align="center" src="images/email.png" alt="LinkedIn Diego Collado Ramos"/> tresw.es@gmail.com</a>
