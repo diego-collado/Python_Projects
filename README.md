@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-# :desktop_computer:	Python_Projects 
+# :desktop_computer:	Python_Projects  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 > [!CAUTION]
 > Estos ejemplos están basados en el desarrollo natural de clases de programación en Python (nivel básico, medio y avanzado), por lo que se incluirán muchos scripts que puedan ser perjudiciales para el sistema en el que se ejecuten.
@@ -42,6 +42,3 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 <p align="center">
 <a href="https://linkedin.com/in/3wdiegocollado/" target="blank"><img align="center" src="images/linkedin.png" alt="Diego Collado Ramos"/> Diego Collado Ramos</a>        <a href="mailto:tresw.es@gmail.com " target="blank"><img align="center" src="images/email.png" alt="LinkedIn Diego Collado Ramos"/> tresw.es@gmail.com</a>
 </p>
-
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
