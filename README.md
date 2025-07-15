@@ -6,7 +6,8 @@
 </picture>
 </p>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<center>[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+</center>
 
 
 # :desktop_computer:	Python_Projects
@@ -37,7 +38,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 <br>
 
-#### ¿Hablamos? [![¡Pregunta lo que quieras!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/diego-collado)
+[![¡Pregunta lo que quieras!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/diego-collado)
 
 > Para contactar conmigo puedes encontrarme: 
 
