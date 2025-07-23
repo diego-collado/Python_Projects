@@ -5,8 +5,6 @@ Chatbot con memoria local y que use ChatGPT cuando no sepa la respuesta:
     para poder "trastear" con aplicaciones que no son nuestras y que están online
     · Guarde la respuesta de ChatGPT para futuras consultas que hagamos
 
-Secret API Key:
-
 ¿Se necesita algo más?
 pip install openai
 '''
