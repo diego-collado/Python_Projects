@@ -39,7 +39,7 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 [![¡Pregunta lo que quieras!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/diego-collado)
 
 
-<p align="center">[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)</p>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 > Para contactar conmigo, puedes hacerlo en: 
 
 <p align="center">
