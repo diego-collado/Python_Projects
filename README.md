@@ -34,7 +34,8 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Ejemplos con explicación para Clase](Ejercicios_con_explicacion): ejemplos resueltos para el día a día en clase, con explicaciones en modo comentario 
 - [Ejemplos Resueltos para Clase: modo PRO](Ejercicios_para_clases_PRO): Ejemplos avanzados de utilización de JSON, Matplotlib + Pandas, Pandas, Numpy y más... Incluye ficheros TXT y dataframes en CSV, entre otros.
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 
 <br>
 
