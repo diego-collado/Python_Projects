@@ -5,7 +5,7 @@ Chatbot con memoria local y que use Google Gemini cuando no sepa la respuesta:
     para poder "trastear" con aplicaciones que no son nuestras y que están online
     · Guarde la respuesta de Google Gemini para futuras consultas que hagamos
 
-Secret API Key: AIzaSyBGdVymQav4pWhu1ILBjEJQbhEUoyqKnIQ
+Secret API Key: 
 
 ¿Se necesita algo más?
 pip install google-genai
@@ -16,7 +16,7 @@ import os # https://docs.python.org/es/3.13/library/os.html
 import google.generativeai as genai
 
 # VARIABLES/ARCHIVOS GLOBALES --------------------------------------------
-genai.configure(api_key = "AIzaSyBGdVymQav4pWhu1ILBjEJQbhEUoyqKnIQ")
+genai.configure(api_key = "")
 MEMORIA_FILE = "memoria.json"
 
 # PRECARGAS --------------------------------------------------------------

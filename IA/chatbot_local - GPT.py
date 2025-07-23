@@ -6,7 +6,6 @@ Chatbot con memoria local y que use ChatGPT cuando no sepa la respuesta:
     · Guarde la respuesta de ChatGPT para futuras consultas que hagamos
 
 Secret API Key:
-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
 
 ¿Se necesita algo más?
 pip install openai
@@ -19,7 +18,7 @@ import openai
 # https://platform.openai.com/docs/api-reference/introduction
 
 # VARIABLES/ARCHIVOS GLOBALES --------------------------------------------
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("")
 MEMORIA_FILE = "memoria.json"
 
 # PRECARGAS --------------------------------------------------------------
