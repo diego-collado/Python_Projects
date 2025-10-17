@@ -1,0 +1,48 @@
+proyecto|
+	|-mi_proyecto|
+	|	     |-mi_proyecto|
+	|			  |-- __init__.py --> archivo vacío de Python que marca la carpeta como un paquete
+	|			  |-- settings.py --> archivo de configuración de TODO el proyecto completo
+	|			  |-- urls.py     --> archivo que contiene el mapa de todas las rutas y caminos (path) de nuestro proyecto
+	|			  |-- wsgi.py     --> archivo interfaz de enlace utilizada en despliegues (instalación en producción)
+	|
+	|-- manage.py --> utilidad para poder gestionar (administrar) todo lo relacionado con nuestro proyecto
+------------------------------------------------------------------------------------------------------------------------------------
+Django tiene la siguiente filosofía:
+	--> Aplicación: aplicación web, compuesta de modelos determinados (tablas en las bases de datos, plantillas...)
+	--> Proyecto: colección de configuraciones y aplicaciones diferentes, es decir, está compuesto por 1 o más aplicaciones totalmente diferentes
+
+************************************************************************
+*** NO SE PUEDE EJECUTAR UNA APLICACIÓN DJANGO SIN TENER UN PROYECTO ***
+************************************************************************
+
+Los pasos que sigo para crear todo son:
+
+1.- Si no hemos instalado Django, lo hacemos: pip install django
+2.- Para comenzar un proyecto, codifico en terminal: django-admin startproject nombre_de_mi_proyecto
+3.- Entramos en la carpeta recien creada: cd nombre_de_mi_proyecto
+4.- "Arranca, Carlos, por Diosssss!!!": python manage.py startapp aplicacion_nueva_a_crear
+5.- Cada aplicación nueva se crea: python manage.py startapp siguiente_aplicacion_nueva_a_crear
+
+Cuando ya tenemos 1 o más de una aplicaciones, la estructura nos quedaría
+
+proyecto|
+	|-mi_proyecto|
+	|	     |-mi_aplicacion|               <-- Esta es la nueva aplicación que hemos creado
+	|	     |		    |-- migrations/ --> aquí se almacenan algunos archivos necesarios para mantener un registro de cambios y mantener la aplicación sincronizada si hacemos algo (models.py)
+	|	     |		    |		|- __init__.py
+	|	     |		    |-- admin.py    --> archivo de configuración de la aplicación compilada (aplicación que vemos realmente), la que gestiona el admin de Django
+	|            |		    |-- apps.py     --> archivo de configuración de la nueva app que hemos creado
+	|	     |		    |-- models.py   --> archivo que define la entidades de nuestra aplicación, las cuales se traducen por Django de forma automática a tablas en la BBDD
+	|	     |		    |-- tests.py    --> archivo utilizado para realizar y escribir pruebas (unitarias) a nuestra aplicación
+	|	     |		    |-- views.py    --> archivo donde se manejan las solicitudes y respuestas de nuestra app.
+	|	     |		    
+	|	     |		    
+	|	     |			   
+	|	     |-mi_proyecto|
+	|			  |-- __init__.py --> archivo vacío de Python que marca la carpeta como un paquete
+	|			  |-- settings.py --> archivo de configuración de TODO el proyecto completo
+	|			  |-- urls.py     --> archivo que contiene el mapa de todas las rutas y caminos (path) de nuestro proyecto
+	|			  |-- wsgi.py     --> archivo interfaz de enlace utilizada en despliegues (instalación en producción)
+	|
+	|-- manage.py --> utilidad para poder gestionar (administrar) todo lo relacionado con nuestro proyecto

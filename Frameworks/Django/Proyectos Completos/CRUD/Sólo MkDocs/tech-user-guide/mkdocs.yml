@@ -1,0 +1,28 @@
+site_name: "ToDo_List"
+site_description: "Documentacion oficial tecnica del proyecto"
+site_author: "Diego Collado - tresw.es@gmail.com"
+
+theme:
+  name: readthedocs
+  language: es
+  avatar: assets/imgs/logo.png
+  round_avatar: true
+  avatar_size: 8rem
+  header_layout: [avatar, title, nav, socials, tagline]
+  
+  #background_gradient_angle: 45
+  #background_gradient_colors:
+  #  - "#00000080"
+  #  - "transparent"
+  #  - "#ffffff20"
+
+nav:
+  - Proyecto: index.md
+  - Desarrollo APP: desarrollo.md
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - attr_list
