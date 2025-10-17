@@ -23,9 +23,22 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 - [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Bases de Datos Relacionales](BBDD): MySQL, SQLite con PyQt5, SQLite3
 - [Bases de Datos No Relacionales](BBDDno): MongoDB
+
+---
+
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
+
+---
+
+- [Frameworks](Frameworks): Django (backend), Flask (frontend)
+
+---
+
 - [Hacking & Python](Hacking_Python): Scripts para realizar cada una de las fases de una auditoría Web y/o de sistemas (Black/Grey/White Box)
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
+
+---
+
 - [Proyectos](Completos): Proyectos completos, donde se integra estructura, README y otros archivos
 - [I.A.](IA): Proyectos ejemplo de Inteligencia Artificial (I.A.), desde simples bots automáticos hasta IA completa y totalmente autónomas.
 <br>
