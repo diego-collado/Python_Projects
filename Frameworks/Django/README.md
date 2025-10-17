@@ -6,12 +6,12 @@
 > Los proyectos ejemplo funcionales de Python (versión 3.x), orientados a proporcionar conocimientos teórico-prácticos de este lenguaje en varias áreas del desarrollo.
 
 ## :bricks:	Proyectos completos de ejemplo :floppy_disk:	
-- [3 en Raya (Python)](3enrayapy): ejemplo proyecto <b>3 en raya</b> desarrollado en Python 3.x. EL juego permite jugar contra otro oponente o contra la máquina.
+- [CRUD](CRUD): ejemplo proyecto de <b>CRUD (tipo ToDo)</b> desarrollado en Python 3.x., Django 5.2.x, con base web HTML5, CSS3 y BootStrap 5.X.
+Están disponibles varios archivos con el siguiente contenido:
+    
+    - Crudsite-básico --> CRUD sin registro, con securización y accesos controlados securización
+    - Crudsite completo (securizado, con login, registro y BootStrap)
+    - Crudsite completo (securizado, con login, registro y BootStrap) + recuperación por email
+    - Crudsite (completo y securizado + documentación)
 
 
-
-
-
-- [Bot Simple (Python)](bot_simple): ejemplo proyecto <b>Bot simple</b> desarrollado en Python 3.x, totalmente independizado de APIs e Internet, con aprendizaje automático incluido.
-- [Weather + API (Python)](weather): ejemplo proyecto <b>Weather + API</b> desarrollado en Python 3.x, que permite consultar la temperatura de una ciudad específica en tiempo real mediante comunicación con API de OpenWeather
-- [Calculadora con GUI](calculadora_GUI): ejemplo proyecto <b>Calculadora con GUI (Graphics User Interface)</b> desarrollado en Python 3.x, que utilizar la funcionalidad de una calculadora al uso, con interface gráfica para el manejo del usuario final.
