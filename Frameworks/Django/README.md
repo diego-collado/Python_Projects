@@ -14,4 +14,11 @@ Están disponibles varios archivos con el siguiente contenido:
     - Crudsite completo (securizado, con login, registro y BootStrap) + recuperación por email
     - Crudsite (completo y securizado + documentación)
 
+- [Financial_Site](Finance): ejemplo proyecto de <b>CRUD (tipo ToDo)</b> orientado a finanzas desarrollado en Python 3.x., Django 5.2.x, con base web HTML5, CSS3 y BootStrap 5.X.
 
+Están disponibles varios archivos con el siguiente contenido:
+    
+    - Crudsite-básico --> CRUD sin registro, con securización y accesos controlados securización
+    - Crudsite completo (securizado, con login, registro y BootStrap)
+    - Crudsite completo (securizado, con login, registro y BootStrap) + recuperación por email
+    - Crudsite (completo y securizado + documentación)
