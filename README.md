@@ -18,12 +18,13 @@ Ejemplos funcionales de Python (versión 3.x), orientados a proporcionar conocim
 
 ## <img alt="Python_Projects, algo más que programación" src="/images/musculo.png" width="3%">Accede al contenido 
 
-- [Bases de Datos](BBDD): MySQL, SQLite con PyQt5, SQLite3
+- [Básico & Advanced](Python_basico_y_avanzado): Explicaciones básicas (operadores, casting, estructuras de control... ) y avanzadas (diccionarios, paquetes, ficheros, excepciones...)
+- [Programación Orientada a Objetos](P.O.O): Herencias, clases, objetos y mucho más...
+- [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
+- [Bases de Datos Relacionales](BBDD): MySQL, SQLite con PyQt5, SQLite3
+- [Bases de Datos No Relacionales](BBDDno): 
 - [CheatSheet Variadas](CheatSheets): MySQL, SQLite, PyCharm...
 - [Hacking & Python](Hacking_Python): Scripts para realizar cada una de las fases de una auditoría Web y/o de sistemas (Black/Grey/White Box)
-- [Programación Orientada a Objetos](P.O.O): Herencias, clases, objetos y mucho más...
-- [Básico & Advanced](Python_basico_y_avanzado): Explicaciones básicas (operadores, casting, estructuras de control... ) y avanzadas (diccionarios, paquetes, ficheros, excepciones...)
-- [Tkinter (GUI)](Tkinter_(GUI)):Tkinter (GUI para Python) & Canvas
 - [Utilidades](Utilidades):Utilidades variadas: Texto a voz (Text-To-Speech), generadores de passwords, barras de progreso, utilidades PDF...
 - [Proyectos](Completos): Proyectos completos, donde se integra estructura, README y otros archivos
 - [I.A.](IA): Proyectos ejemplo de Inteligencia Artificial (I.A.), desde simples bots automáticos hasta IA completa y totalmente autónomas.
